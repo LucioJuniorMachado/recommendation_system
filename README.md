@@ -1,4 +1,4 @@
-# recommendation_system-
+# recommendation_system
 
 Sistema de recomendação por imagens.
 
